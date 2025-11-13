@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\frmminhaslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmminhaslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador-filmes-e-livros-lp-main\\registrador-filmes-e-livros-lp-main\\trabalho programacao\\frmcriarlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmcriarlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEntrada.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmEntrada.cs",
+              "RelativeDocumentMoniker": "FrmEntrada.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmEntrada.cs [Design]",
+              "RelativeToolTip": "FrmEntrada.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:18:08.183Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FrmHome.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmHome.cs [Design]",
+              "RelativeToolTip": "FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:18:08.443Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:54:11.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPerfil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmPerfil.cs",
+              "RelativeDocumentMoniker": "FrmPerfil.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmPerfil.cs [Design]*",
+              "RelativeToolTip": "FrmPerfil.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:18:08.935Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmFilme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmFilme.cs",
+              "RelativeDocumentMoniker": "FrmFilme.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmFilme.cs [Design]",
+              "RelativeToolTip": "FrmFilme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:18:08.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLivro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmLivro.cs",
+              "RelativeDocumentMoniker": "FrmLivro.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmLivro.cs [Design]",
+              "RelativeToolTip": "FrmLivro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:18:08.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSugest\u00E3oFilme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmSugest\u00E3oFilme.cs",
+              "RelativeDocumentMoniker": "FrmSugest\u00E3oFilme.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmSugest\u00E3oFilme.cs [Design]",
+              "RelativeToolTip": "FrmSugest\u00E3oFilme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:18:09.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmSugest\u00E3oLivro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmSugest\u00E3oLivro.cs",
+              "RelativeDocumentMoniker": "FrmSugest\u00E3oLivro.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmSugest\u00E3oLivro.cs [Design]",
+              "RelativeToolTip": "FrmSugest\u00E3oLivro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:18:07.84Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMinhasListas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmMinhasListas.cs",
+              "RelativeDocumentMoniker": "FrmMinhasListas.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmMinhasListas.cs [Design]",
+              "RelativeToolTip": "FrmMinhasListas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:18:08.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCriarLista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmCriarLista.cs",
+              "RelativeDocumentMoniker": "FrmCriarLista.cs",
+              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador-Filmes-e-Livros-LP-main\\Registrador-Filmes-e-Livros-LP-main\\Trabalho Programacao\\FrmCriarLista.cs [Design]",
+              "RelativeToolTip": "FrmCriarLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:18:07.93Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
